@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>French Verb Conjugation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 id="verb-display">Loading...</h1>
+        
+        <div class="conjugation-grid">
+            <div class="tense-section">
+                <h3>Significado</h3>
+                <div class="item"><input type="text" id="sign" placeholder="significado..."></div>
+            </div>
+
+            <div class="tense-section">
+                <h3>Presente</h3>
+                <div class="item"><p>Je</p><input type="text" id="presJe" placeholder="..."></div>
+                <div class="item"><p>Tu</p><input type="text" id="presTu" placeholder="..."></div>
+                <div class="item"><p>Il</p><input type="text" id="presIl" placeholder="..."></div>
+                <div class="item"><p>Nous</p><input type="text" id="presNous" placeholder="..."></div>
+                <div class="item"><p>Vous</p><input type="text" id="presVous" placeholder="..."></div>
+                <div class="item"><p>Ils</p><input type="text" id="presIls" placeholder="..."></div>
+            </div>
+            
+            <div class="tense-section">
+                <h3>Passado Composto</h3>
+                <div class="item"><p>Je</p><input type="text" id="passComp" placeholder="..."></div>
+            </div>
+
+            <div class="tense-section">
+                <h3>Passado Imperfeito</h3>
+                <div class="item"><p>Je</p><input type="text" id="passImpJe" placeholder="..."></div>
+                <div class="item"><p>Tu</p><input type="text" id="passImpTu" placeholder="..."></div>
+                <div class="item"><p>Il</p><input type="text" id="passImpIl" placeholder="..."></div>
+                <div class="item"><p>Nous</p><input type="text" id="passImpNous" placeholder="..."></div>
+                <div class="item"><p>Vous</p><input type="text" id="passImpVous" placeholder="..."></div>
+                <div class="item"><p>Ils</p><input type="text" id="passImpIls" placeholder="..."></div>
+            </div>
+
+            <div class="tense-section">
+                <h3>Mais que Perfeito</h3>
+                <div class="item"><p>Je</p><input type="text" id="maisPer" placeholder="..."></div>
+            </div>
+        </div>
+        
+        <div class="buttons">
+            <button id="check-btn">Check Answer</button>
+            <button id="next-btn">Next Verb</button>
+        </div>
+        
+        <div id="result" class="result"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
