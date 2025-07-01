@@ -433,7 +433,7 @@
   },
   {
     "verb": "sortir",
-    "sign": "to go out / to exit",
+    "sign": "sair",
     "presJe": "sors",
     "presTu": "sors",
     "presIl": "sort",
@@ -451,7 +451,7 @@
   },
   {
     "verb": "partir",
-    "sign": "to leave",
+    "sign": "partir",
     "presJe": "pars",
     "presTu": "pars",
     "presIl": "part",
@@ -469,7 +469,7 @@
   },
   {
     "verb": "penser",
-    "sign": "to think",
+    "sign": "pensar",
     "presJe": "pense",
     "presTu": "penses",
     "presIl": "pense",
@@ -487,7 +487,7 @@
   },
   {
     "verb": "connaître",
-    "sign": "to know (someone/something)",
+    "sign": "conhecer",
     "presJe": "connais",
     "presTu": "connais",
     "presIl": "connaît",
@@ -505,7 +505,7 @@
   },
   {
     "verb": "appeler",
-    "sign": "to call",
+    "sign": "chamar",
     "presJe": "appelle",
     "presTu": "appelles",
     "presIl": "appelle",
@@ -523,7 +523,7 @@
   },
   {
     "verb": "trouver",
-    "sign": "to find",
+    "sign": "encontrar",
     "presJe": "trouve",
     "presTu": "trouves",
     "presIl": "trouve",
@@ -541,7 +541,7 @@
   },
   {
     "verb": "recevoir",
-    "sign": "to receive",
+    "sign": "receber",
     "presJe": "reçois",
     "presTu": "reçois",
     "presIl": "reçoit",
@@ -559,7 +559,7 @@
   },
   {
     "verb": "sentir",
-    "sign": "to feel, to smell",
+    "sign": "sentir",
     "presJe": "sens",
     "presTu": "sens",
     "presIl": "sent",
@@ -577,7 +577,7 @@
   },
   {
     "verb": "suivre",
-    "sign": "to follow",
+    "sign": "seguir",
     "presJe": "suis",
     "presTu": "suis",
     "presIl": "suit",
@@ -595,7 +595,7 @@
   },
   {
     "verb": "écrire",
-    "sign": "to write",
+    "sign": "escrever",
     "presJe": "écris",
     "presTu": "écris",
     "presIl": "écrit",
@@ -613,7 +613,7 @@
   },
   {
     "verb": "lire",
-    "sign": "to read",
+    "sign": "ler",
     "presJe": "lis",
     "presTu": "lis",
     "presIl": "lit",
@@ -631,7 +631,7 @@
   },
   {
     "verb": "voir",
-    "sign": "to see",
+    "sign": "ver",
     "presJe": "vois",
     "presTu": "vois",
     "presIl": "voit",
@@ -649,7 +649,7 @@
   },
   {
     "verb": "ouvrir",
-    "sign": "to open",
+    "sign": "abrir",
     "presJe": "ouvre",
     "presTu": "ouvres",
     "presIl": "ouvre",
@@ -667,7 +667,7 @@
   },
   {
     "verb": "porter",
-    "sign": "to carry, to wear",
+    "sign": "portar",
     "presJe": "porte",
     "presTu": "portes",
     "presIl": "porte",
@@ -685,7 +685,7 @@
   },
   {
     "verb": "chercher",
-    "sign": "to search, to look for",
+    "sign": "procurar",
     "presJe": "cherche",
     "presTu": "cherches",
     "presIl": "cherche",
@@ -703,7 +703,7 @@
   },
   {
     "verb": "perdre",
-    "sign": "to lose",
+    "sign": "perder",
     "presJe": "perds",
     "presTu": "perds",
     "presIl": "perd",
@@ -721,7 +721,7 @@
   },
   {
     "verb": "finir",
-    "sign": "to finish",
+    "sign": "terminar",
     "presJe": "finis",
     "presTu": "finis",
     "presIl": "finit",
@@ -739,7 +739,7 @@
   },
   {
     "verb": "rendre",
-    "sign": "to return (something), to give back",
+    "sign": "retribuir",
     "presJe": "rends",
     "presTu": "rends",
     "presIl": "rend",
@@ -757,7 +757,7 @@
   },
   {
     "verb": "attendre",
-    "sign": "to wait",
+    "sign": "esperar",
     "presJe": "attends",
     "presTu": "attends",
     "presIl": "attend",
@@ -775,7 +775,7 @@
   },
   {
     "verb": "revenir",
-    "sign": "to come back",
+    "sign": "retornar",
     "presJe": "reviens",
     "presTu": "reviens",
     "presIl": "revient",
@@ -793,7 +793,7 @@
   },
   {
     "verb": "boire",
-    "sign": "to drink",
+    "sign": "beber",
     "presJe": "bois",
     "presTu": "bois",
     "presIl": "boit",
@@ -811,7 +811,7 @@
   },
   {
     "verb": "écouter",
-    "sign": "to listen",
+    "sign": "escutar",
     "presJe": "écoute",
     "presTu": "écoutes",
     "presIl": "écoute",
@@ -829,7 +829,7 @@
   },
   {
     "verb": "regarder",
-    "sign": "to watch",
+    "sign": "assistir",
     "presJe": "regarde",
     "presTu": "regardes",
     "presIl": "regarde",
@@ -847,7 +847,7 @@
   },
   {
     "verb": "apprendre",
-    "sign": "to learn",
+    "sign": "aprender",
     "presJe": "apprends",
     "presTu": "apprends",
     "presIl": "apprend",
@@ -865,7 +865,7 @@
   },
   {
     "verb": "arrêter",
-    "sign": "to stop",
+    "sign": "parar",
     "presJe": "arrête",
     "presTu": "arrêtes",
     "presIl": "arrête",
@@ -883,7 +883,7 @@
   },
   {
     "verb": "manger",
-    "sign": "to eat",
+    "sign": "comer",
     "presJe": "mange",
     "presTu": "manges",
     "presIl": "mange",
