@@ -1,5 +1,5 @@
 let verbs = [];
-let currentVerbIndex = 0;
+let currentVerbIndex = Math.floor(Math.random() * verbs.length);
 let fields = ["sign", "presJe", "presTu", "presIl", "presNous", "presVous", "presIls", "passComp", "passImpJe", "passImpTu", "passImpIl", "passImpNous", "passImpVous", "passImpIls", "maisPer"]
 
 async function loadVerbs() {
